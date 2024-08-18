@@ -1,7 +1,7 @@
 ---
 title: 'Real life CS:GO flashbang'
 date: 2022-03-13T09:12:17-04:00
-draft: true
+draft: false
 tags: ["Projects"]
 hideToc: true
 ---
@@ -9,27 +9,27 @@ hideToc: true
 
 A while ago [this](https://www.youtube.com/watch?v=D75ZuaSR8nQ) Michael Reeves video came out demoing a creative project in which he shot himself based on what was happening in the Fortnite game he was playing. This gave a barrage of new ideas for the hacker house.
 
-This was the perfect skill set to recreate a [funny video](https://www.youtube.com/watch?v=ybaK3y_6YXg) that I had seen online, with a bit of a kick.
+Lucky for us, we had the perfect skill set to recreate a [funny video](https://www.youtube.com/watch?v=ybaK3y_6YXg) that we had seen online. Essentially, a real life flashbang that didn't just blind you in your game of CS:GO, but outside as well.
 
 ### Meet the Team
 
 ###### Paxton "Demoman" Marchifava
-Specialty: Hardware
+*Specialty: Hardware*
 
 ###### Malcolm "The Engineer" Boyes
-Specialty: Ideas
+*Specialty: Ideas*
 
 ###### Jarvis "Support" Coghlin
-Specialty: Programming
+*Specialty: Programming*
 
 
 ### Meet the Hardware
-LEDs are pretty good at their job these days. Ten 100-watt cells off of Aliexpress did the job. 
+LEDs are pretty good at their job these days. Ten 100-watt cells from Aliexpress did the job.
 
-<!-- {{< figure src="/images/flashbang-leds.jpg" title="LEDs in a row" width="400">}} -->
 {{< figure src="/images/flashbang-leds.jpg" >}}
 
 Power was obtained from an off-the-shelf 24V PSU, and the setup could be controlled with a 5V relay and Arduino Nano.
+{{< figure src="/images/flashbang-electronics.jpg" >}}
 
 
 ### Meet the Software
@@ -65,7 +65,7 @@ if __name__ == "__main__":
         time.sleep(0.01)
 {{< / highlight >}}
 
-The `is_white()` function can be adjusted for fine-tuning, but during testing we had no issues with a value of ~245.
+The `is_white()` function can be adjusted for fine-tuning, however during testing we had no issues with a value of ~245.
 
 
 ### Final Setup
@@ -74,4 +74,5 @@ Once the code is uploaded to the Arduino and everything is plugged in, this is t
 
 {{< youtube J_J6DgB_2rw >}}.
   
-Thanks for reading! You can check out the project [here](https://github.com/jarviscog/enhanced-flashbang)
+Thanks for reading! This turned out to be a relatively simple, but very fun project. 
+You can check out the project [here](https://github.com/jarviscog/enhanced-flashbang) and create your own.
