@@ -1,9 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Jarvis Coghlin'
-theme = 'ananke'
+theme = 'poison'
 
-[module]
-  [[module.imports]]
-    path = "github.com/lukeorth/poison"
-    disable=false
+#[module]
+  #[[module.imports]]
+    #path = "github.com/lukeorth/poison"
+    #disable = false

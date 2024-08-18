@@ -11,4 +11,3 @@ Currently completing my last semester at Western University, taking two courses:
 
 After that...not too sure yet. Starting full-time work, and working in Backend, Low-level/embedded systems, and security.
 
-<!-- Bullish on: -->
