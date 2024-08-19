@@ -36,6 +36,8 @@ int go_to(content: str):
 |------:|-------|-------|
 | Hello | Hello2|Hello3 |
 
+## Youtube video
+{{< youtube J_J6DgB_2rw >}}.
 
 ## Side by side
 
@@ -43,3 +45,40 @@ int go_to(content: str):
 
 ## Audio
 {{<audio src="path/to/your.mp3" caption="your caption">}}
+
+
+## E charts
+
+{{< echarts >}}
+{
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "data": [
+        150,
+        230,
+        224,
+        218,
+        135,
+        147,
+        260
+      ],
+      "type": "line"
+    }
+  ]
+}
+{{< /echarts >}}
