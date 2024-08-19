@@ -29,4 +29,5 @@ __Useful resources for programmers-to-be:__
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Making a Parser](https://osblog.stephenmarz.com/)
 - [An Interactive Guide to x86-64 Assembly](https://halb.it/posts/x64-moving-data/)
+- [What are you telling me Ghidra?](https://byte.how/posts/what-are-you-telling-me-ghidra/)
 

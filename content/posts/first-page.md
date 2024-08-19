@@ -40,3 +40,6 @@ int go_to(content: str):
 ## Side by side
 
 `# TODO`
+
+## Audio
+{{<audio src="path/to/your.mp3" caption="your caption">}}
