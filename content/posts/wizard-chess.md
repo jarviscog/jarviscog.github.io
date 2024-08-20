@@ -74,4 +74,5 @@ Overall we were very happy with the result, if a little burnt out by the time cr
 {{< youtube id="tppY0oy66Ag" loading="lazy" >}}
 **Důras Gambit. What a move!!**
 
-Thanks for reading! You can find the code for the project [here](https://github.com/jarviscog/Wizard-Chess). 
+Thanks for reading! You can find the code for the project [here](https://github.com/jarviscog/Wizard-Chess) and check out the other people that worked on the project:  
+[@nollum](https://github.com/nollum) [@Shok302](https://github.com/Shok302)
