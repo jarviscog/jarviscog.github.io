@@ -2,7 +2,7 @@
 title: 'Real life CS:GO flashbang'
 date: 2022-03-13T09:12:17-04:00
 draft: false
-tags: ["Projects"]
+tags: ["Projects", "Hardware"]
 hideToc: true
 ---
 
@@ -17,7 +17,7 @@ Lucky for us, we had the perfect skill set to recreate a [funny video](https://w
 *Specialty: Hardware*
 
 ###### Malcolm "The Engineer" Boyes
-*Specialty: Ideas*
+*Specialty: Embedded Devices*
 
 ###### Jarvis "Support" Coghlin
 *Specialty: Programming*
