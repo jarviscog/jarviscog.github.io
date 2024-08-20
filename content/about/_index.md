@@ -31,3 +31,10 @@ __Useful resources for programmers-to-be:__
 - [An Interactive Guide to x86-64 Assembly](https://halb.it/posts/x64-moving-data/)
 - [What are you telling me Ghidra?](https://byte.how/posts/what-are-you-telling-me-ghidra/)
 
+**My favourite books to recommend**
+- Salt Fat Acid Heat -- Samin Nosrat
+    - For peope that think in "systems", it's a great book to understand the building blocks of cooking
+- 跟动物交换身体 - 川崎悟司
+    - Even if you can't read Chinese, it's a fun book with great illustrations
+- Hacking: The Art of Exploitation -- Jon Erickson
+    - Great book running through the basics of C and hacking
