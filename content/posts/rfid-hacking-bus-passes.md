@@ -76,7 +76,7 @@ This got me really curious about how these things actually work, and if I could 
 The [MFRC522](https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/) looked like a good choice to start this project, but what if we just try using a phone? They already have RFID built-in, and aside from the bus driver knowing something was up, it would mean I could use it instead of any card.  
 
 
-**NOTE**: This post is currently being written. Come back in a week to read the rest!
+**NOTE**: This post is currently being written. Come back later to read the rest!
 
 
 
