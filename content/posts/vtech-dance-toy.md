@@ -2,7 +2,7 @@
 title: 'VTech Toy Hardware Hacking'
 date: 2024-02-19T09:12:17-04:00
 draft: false
-tags: ["Projects"]
+tags: ["Projects", "Hardware"]
 ---
 
 A little while back a friend and I were looking for some ways to get into embedded programming and reverse engineering. 
@@ -126,6 +126,48 @@ After extracting this block of data, we can create an mp3 file that contains all
 
 {{<audio src="/audio/dance-song.mp3" caption="Excerpt from \"Crazy Dance\"">}}
 
-More to come!
+It seems only the songs were in this section, so at some point we will have to find the sounds that play while flipping through the ui and such.  
 
+
+Now, let's focus on the "x86" section. 
+From what I could tell, this section is a bit of a misnomer, as this device is using an ARM processor. 
+
+
+{{< figure src="/images/dance-decompiled.jpg" >}}
+It's a lot to look at, but the left side is the compiled binary in green, along with the address of the data in blue. The right side shows Ghidras best guess at what the decompiled C code should look like.  
+
+Working with Ghidra is a lot more of a manual process than I thought it would be. It's a lot of push-and-pull, where it gives you it's best guess of the decompiled code, and you use that to make educated guesses about what each function does, and when it has gotten something incorrect.  
+In the image above, the right-hand side looks like pretty reasonable C, I renamed some functions however there's still some variables that need to be renamed (`param_2`, `param_3`).  
+All of the blue words on the right are variables or params, with some pointing to strings such as s_WritePageFail. From this, we can tell the function using it is probably some sort of print or debug function.
+
+After doing this for a while, you start to build up an idea of how the code works, building up larger and larger functions:
+{{< highlight c >}}
+void mainEventLoop(void)
+{
+  some_setLotsOfData();
+  some_setSomeIOvars();
+  getLCDInfo();
+  FUN_0000a5c0();
+  FUN_00004b8a();
+  some_DAC_or_ADC_operation();
+  FUN_0001f9e4();
+  thunk_FUN_0002dcec();
+  some_LED_func();
+  FUN_0001277a();
+  some_drawFunction();
+  FUN_000072e4();
+  do {
+    event_loop_step_1();
+    event_loop_step_2();
+    event_loop_step_3();
+    event_loop_step_4();
+    event_loop_step_5();
+    some_LEDLogic();
+    event_loop_step_7();
+  } while( true );
+}
+{{< / highlight >}}
+**What looks like some main event loop**
+
+That's as far as I have gotten for now. Stay tuned for a Pt.2, as there is still lots that can be done!
 
