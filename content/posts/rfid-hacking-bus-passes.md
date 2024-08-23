@@ -1,7 +1,7 @@
 ---
 title: 'RFID Hacking Bus Passes'
 date: 2024-08-18T15:20:46-04:00
-draft: false
+draft: true
 tags: ["Projects", "Hardware"]
 ---
 
@@ -75,11 +75,48 @@ This got me really curious about how these things actually work, and if I could 
 
 The [MFRC522](https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/) looked like a good choice to start this project, but what if we just try using a phone? They already have RFID built-in, and aside from the bus driver knowing something was up, it would mean I could use it instead of any card.  
 
-
-**NOTE**: This post is currently being written. Come back later to read the rest!
-
+Looking on the Play Store reveals lots of different apps to serve this purpose. Downloading any reveals options to read, write, and save to file.
 
 
+Reading the card produces the following information:
+{{< highlight text "" >}}
+BLOCK 0:
+f3 26 39 00 32 58 92 93 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+...
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+BLOCK 1:
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+...
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+BLOCK 31:
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+...
+
+{{< / highlight >}}
+
+And that's it. 8 bytes of data, and then the rest of the card is all 0'ed out.
+
+When I saw this, I thought they gave me a defective card. This can't possibly be it, but after scanning my friend's card too it was confirmed.
+
+For the low-low price of $12.95, you can have 30 of these cards show up on your doorstep by 8PM tomorrow. 
+Pushing aside my philanthropist urge to start handing out passes to everyone I come by, I immediately contacted the bus company. This is the sort of thing that the company would probably like to know about. 
+Sorry to BUSt your spirit, this is the 
+After two emails, and a month had passed, I lost faith that the but company would fix the issue. This sort of major issue is never the fault of a single person. This had to have been by multiple people in the company, 
+
+
+Thanks for reading!
 
 
 
