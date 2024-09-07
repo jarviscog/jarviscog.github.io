@@ -72,7 +72,12 @@ The `is_white()` function can be adjusted for fine-tuning, however during testin
 
 Once the code is uploaded to the Arduino and everything is plugged in, this is the result: 
 
-{{< youtube J_J6DgB_2rw >}}.
+{{< youtube J_J6DgB_2rw >}}
+**The entire project in action**  
+
+  
+{{< youtube iSoGH-_gTDo >}}
+**The view from outside the window**
   
 Thanks for reading! This turned out to be a relatively simple, but very fun project. 
 You can check out the project [here](https://github.com/jarviscog/enhanced-flashbang) and create your own.
