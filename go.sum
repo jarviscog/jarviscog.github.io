@@ -1,2 +1,6 @@
+github.com/bruvduroiu/hugo-maps v0.0.0-20240318065531-c9b7ad2e97e2 h1:aRWO/Wqlf7N3cBRyMrmJS8XWzqRXbNJKcol7YTix/78=
+github.com/bruvduroiu/hugo-maps v0.0.0-20240318065531-c9b7ad2e97e2/go.mod h1:+hIGTKTJqohKnZn01Gt1VbsGawG/ezYAksPD6e1uCDM=
 github.com/lukeorth/poison v0.0.0-20240805200525-eaec6fbf03d9 h1:ZEmB/vWWLeB/c79SiNKngM8zzIRqt3FCbMkvDRe+vxs=
 github.com/lukeorth/poison v0.0.0-20240805200525-eaec6fbf03d9/go.mod h1:fYVpevZiA79ef8Q1DkUgg/MF53oy4mKFSFTnK+EeiO0=
+github.com/marcpabst/hugo-maps v0.0.0-20230515113805-bde3f7efec96 h1:4JoOT+TEh0XIr+3+8NvIBDoYkuEeRmXoTI3KV82Jq2Q=
+github.com/marcpabst/hugo-maps v0.0.0-20230515113805-bde3f7efec96/go.mod h1:sNDNVXcTlC/CBghljJTDEfftMpse1RhGqvBWhJggXNY=

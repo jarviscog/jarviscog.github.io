@@ -1,0 +1,33 @@
+baseURL = 'https://jarviscog.github.io/'
+languageCode = 'en-us'
+title = 'Jarvis Coghlin'
+theme = 'poison'
+[params]
+  subtitle = "Personal Blog Site"
+  [params.contact]
+    email = "jarviscoghlin@gmail.com"
+
+
+[module]
+  [[module.imports]]
+    disable = false
+    # path = "github.com/marcpabst/hugo-maps"
+    # TODO This is a fork that fixes an issue with the current version. Check main is stable in a while
+    path = "github.com/bruvduroiu/hugo-maps"
+
+
+
+#[params]
+  #[hugo-maps]
+      #default
+          ## https://cloud.maptiler.com/account/analytics?chart=bar&classifier=services&period=current_billing_period&group=request
+          #tileJSON = "https://api.maptiler.com/tiles/v3/tiles.json?key=ZusYj9OkleWd2B6vjaFb"
+      #my_map:
+        #center = [0, 0]
+        #zoom = 2
+
+
+#[module]
+  #[[module.imports]]
+    #path = "github.com/lukeorth/poison"
+    #disable = false
