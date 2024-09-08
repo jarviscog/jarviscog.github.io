@@ -11,7 +11,7 @@ hideToc: true
 For the better part of my Computer Science career I've had a project in the works that I am finally happy to say is \"1.0\".
 
 I was just finishing up my last year of high school when COVID hit. During that time, the school board in my area had the bright idea to fix the grades for each student. As a student, this was pretty awesome, as this meant that I had to do absolutely nothing for the rest of the year, and I would come out with crazy high marks. My friend group and I burned through every video game under the sun, I read a lot, and semi-kept up with the courses I enjoyed.  
-At a certian point however, it started to get boring. As a lot of other people chose to do during this time, I decided to try and pick up a foreign language. 
+At a certain point however, it started to get boring. As a lot of other people chose to do during this time, I decided to try and pick up a foreign language. 
 A lot of inspiration to do this came from different youtubers. People like [Xiaoma](https://www.youtube.com/@xiaomanyc), [Steve Kaufmann](https://www.youtube.com/@Thelinguist), and [Langfocus](https://www.youtube.com/@Langfocus) were on repeat around the house. 
 I started with Russian, but soon fell in love with Chinese.  
 
