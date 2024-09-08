@@ -38,7 +38,7 @@ Subjectively, I noticed I enjoyed the MTR much more, with it being much cleaner,
 
 {{< figure src="/images/mtr-platform.png" title="My home platform of Kowloon Tong, with arrival times you can actually believe" >}}
 
-## The Tripple-Station-Cross-Transfer
+## The Triple-Station-Cross-Transfer
 It's not just the easy to measure metrics that make the system great, it's the immensely useful quality of life features of the system.
 One of the features that's hard to notice at first is cross-platform transfers. This is best explained using the Tsuen Wan and Kwun Tong lines.  
 
@@ -50,7 +50,7 @@ One of the features that's hard to notice at first is cross-platform transfers. 
     attr=""
 >}}
 
-Above shows the upper and lower floor of three stations. In the arrangement above, *any* transfer between the green and red lines only requires crossing the platform at the correct time.
+Above shows the upper and lower floors of three stations. In the arrangement above, *any* transfer between the green and red lines only requires crossing the platform at the correct time.
 This isn't a new idea. Lots of other transit systems around the world provide this feature as well, however it's a feature that takes a considerable amount of planning and intention to get right.  
 This, along with countless other features such as platform screen doors, amazing resources for people with disabilities, and the omnipresent Octopus Cards used for payment create a system that easily becomes world-class.
 
@@ -67,17 +67,18 @@ This extreme density allows Hong Kong to get more out of their stations, which l
 It's hard to get exact stats on the topic, but it's safe to say that fare evasion is not a significant issue for the MTR. 
 During my four months there I never saw a single person skip the fare.  
 
-There is also a scence of "shared suffering" among people in Hong Kong. That is, people who witness fare skipping are much more likely to report it.
-People from asia are less likely to commit misdemeanors such as fare skipping, and are also more likely to report if they see someone else doing it. This goes hand-in-hand with the governments willingness to prosecute and 
+There is also a sence of "shared suffering" among people in Hong Kong. That is, people who witness fare skipping are much more likely to report it.
+People from Asia are less likely to commit misdemeanors such as fare skipping, and are also more likely to report if they see someone else doing it.
+This goes hand-in-hand with the government's willingness to prosecute and 
 Even something as trivial as entering the train while the doors are closing can result in a [$250USD](https://www.clic.org.hk/en/topics/traffic_law/public_transport/MTR/general_rules_for_passengers) fine, and food or drink is a big no-no on subways.
 
 ### Government Pressure
-The Hong Kong Government is in a bit of a precarious position because of it's status as a city-state.  
+The Hong Kong Government is in a bit of a precarious position because of its status as a city-state.  
 
-This is because the GDP of the entire country comes from it's ability to facilitate business, host tourists, and handle logistics. 
+This is because the GDP of the entire country comes from its ability to facilitate business, host tourists, and handle logistics. 
 Any moment this is not able to happen is a direct cut to the GDP of the country. 
-This is much moreso the case than a country like the U.S. that has diverse industries such as agriculture and manufacturing.
-This in turn makes the transit extremely important. The system being down for an hour means deals don't happen, tourists don't shop, and the country suffers.  
+This is much more so the case than a country like the U.S. that has diverse industries such as agriculture and manufacturing.
+This in turn makes transit extremely important. The system being down for an hour means deals don't happen, tourists don't shop, and the country suffers.  
 
 Since the transit is paramount to Hong Kong's survival, the government is extremely motivated to keep the system as reliable as it can.  
 
@@ -95,8 +96,8 @@ Much like the U.S. manifest destining her way across the American west, the gove
 Rather than [land grants](https://www.loc.gov/collections/railroad-maps-1828-to-1900/articles-and-essays/history-of-railroads-and-maps/land-grants/#:~:text=Between%201850%20and%201872%20extensive,of%20track%20that%20was%20built.) however, MTR is given the right to lease and develop the land. And you know what they do with this land? **Shopping malls, offices, and residential space**.
 The subway system is really just an interconnected web of everything a person could need.
 
-This means MTR has an incentive to make people *want* to use the system. The more people use it, the more shopping they do at the stores that are so deeply connected to their network. Remember the Octopus cards that make the system easy to use? They 'conviniently' work at essentially every store in every mall connected to the system, so you can use the same card to commute, buy lunch, and go shopping with some friends all without having to think!
-Likewise, if the system goes down it directly effects the number of people able to shop.  
+This means MTR has an incentive to make people *want* to use the system. The more people use it, the more shopping they do at the stores that are so deeply connected to their network. Remember the Octopus cards that make the system easy to use? They 'conveniently' work at essentially every store in every mall connected to the system, so you can use the same card to commute, buy lunch, and go shopping with some friends all without having to think!
+Likewise, if the system goes down it directly affects the number of people able to shop.  
 
 
 All of this culminates in a system where the company running the transit network has every motivation in the word to make a *reliable* and *enjoyable* experience.
