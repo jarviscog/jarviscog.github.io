@@ -19,8 +19,8 @@ There was a neighbourhood near my house that had a 2nd hand store, and every onc
 This started to become an obsession, with me picking up some cryptic book that I couldn't understand just for the fun of it, translating character-by-character trying to get a glimpse into another world. 
 Each time I found a word I didn't know, I would add it to an app called Anki on my phone. 
 Anki is used to create and store flashcards, and memorize them using the [Spaced Repetition System](https://en.wikipedia.org/wiki/Spaced_repetition). 
-{{< figure src="/images/anki-example.jpg" width="600" >}}
-**An example Anki card**
+{{< figure src="/images/anki-example.jpg" title="An example Anki card" width="600" >}}
+
 
 Anki shows cards to you based on how well you remembered them the previous time you saw the card. This effectively speeds up memorization of cards, as you see the cards you have trouble remembering a lot move often than the ones you have down-pat.  
 
