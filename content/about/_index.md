@@ -18,6 +18,7 @@ __Some of the coolest content I've come across:__
 - [Obra Dinn Dithering](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 - [Tom7](http://radar.spacebar.org/f/a/weblog/comment/1/1157)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+- [Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test)
 
 
 __Useful resources for programmers-to-be:__
