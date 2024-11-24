@@ -9,13 +9,13 @@ Software Engineer enthusiastic about Languages and Theology
 
 Currently completing my last semester at Western University, taking two courses: [Electronic Circuits](https://www.westerncalendar.uwo.ca/Courses.cfm?CourseAcadCalendarID=MAIN_021310_1&SelectedCalendar=Live&ArchiveID=) and [Systematic Theology](https://www.westerncalendar.uwo.ca/Courses.cfm?CourseAcadCalendarID=HURON_019363_1&SelectedCalendar=Live&ArchiveID=)
 
-Starting full-time work, and working in Backend, Low-level/embedded systems, and security.  
-
+Starting full-time work, and interested in Backend, Low-level/embedded systems, and security.  
 
 
 __Some of the coolest content I've come across:__
 - [The Canonical Path](https://everynoise.com/canonicalpath.cgi)
-- [Russian Flag Promotional Site](https://oflage.ru/)
+- [Does College Pay Off? A Comprehensive ROI Analysis](https://freopp.org/whitepapers/does-college-pay-off-a-comprehensive-return-on-investment-analysis/)
+- [Obra Dinn Dithering](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 - [Tom7](http://radar.spacebar.org/f/a/weblog/comment/1/1157)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 
