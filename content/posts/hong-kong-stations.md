@@ -67,7 +67,7 @@ This extreme density allows Hong Kong to get more out of their stations, which l
 It's hard to get exact stats on the topic, but it's safe to say that fare evasion is not a significant issue for the MTR. 
 During my four months there I never saw a single person skip the fare.  
 
-There is also a sence of "shared suffering" among people in Hong Kong. That is, people who witness fare skipping are much more likely to report it.
+There is also a sense of "shared suffering" among people in Hong Kong. That is, people who witness fare skipping are much more likely to report it.
 People from Asia are less likely to commit misdemeanors such as fare skipping, and are also more likely to report if they see someone else doing it.
 This goes hand-in-hand with the government's willingness to prosecute and 
 Even something as trivial as entering the train while the doors are closing can result in a [$250USD](https://www.clic.org.hk/en/topics/traffic_law/public_transport/MTR/general_rules_for_passengers) fine, and food or drink is a big no-no on subways.
