@@ -36,7 +36,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
     # Links to your socials.  Comment or delete any you don't need/use. 
     # discord_url = "https://discord.com"
-    email_url = "mailto://jarviscoghlin@gmail.com"
+    # email_url = "mailto://jarviscoghlin@gmail.com"
     # youtube_url = "https://youtube.com"
     github_url = "https://github.com/jarviscog"
     linkedin_url = "https://www.linkedin.com/in/jarvis-coghlin-6b137a1a3/"
