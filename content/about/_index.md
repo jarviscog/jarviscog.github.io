@@ -20,11 +20,11 @@ __Useful resources for programmers-to-be:__
 - [What are you telling me Ghidra?](https://byte.how/posts/what-are-you-telling-me-ghidra/)
 
 **My favorite books to recommend:**
-- Salt Fat Acid Heat -- Samin Nosrat
-    - For people that think in "systems", it's a great book to understand the building blocks of cooking
 - Godel, Escher, Bach -- Douglas Hofstadter
     - Book that ties mathematics, art, and music together
 - The Righteous Mind -- Jonathan Haidt
+- Salt Fat Acid Heat -- Samin Nosrat
+    - For people that think in "systems", it's a great book to understand the building blocks of cooking
 - 跟动物交换身体 - 川崎悟司
     - Even if you can't read Chinese, it's a fun book with great illustrations
 
