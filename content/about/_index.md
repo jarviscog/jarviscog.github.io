@@ -19,7 +19,7 @@ __Useful resources for programmers-to-be:__
 - [An Interactive Guide to x86-64 Assembly](https://halb.it/posts/x64-moving-data/)
 - [What are you telling me Ghidra?](https://byte.how/posts/what-are-you-telling-me-ghidra/)
 
-**My favourite books to recommend**
+**My favorite books to recommend**
 - Salt Fat Acid Heat -- Samin Nosrat
     - For people that think in "systems", it's a great book to understand the building blocks of cooking
 - Godel, Escher, Bach -- Douglas Hofstadter
