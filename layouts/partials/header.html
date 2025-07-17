@@ -1,5 +1,6 @@
 <!-- Note for me: This is copied from the theme, with analytics inserted-->
 
+<!-- TODO This isn't actually being called. It's just using themes/poison/layouts/_default/baseof.html -->
 
 <!DOCTYPE html>
 
@@ -9,6 +10,8 @@
     {{ template "_internal/google_analytics_async.html" . }}
 
     {{ partial "head/scripts.html" . }}
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
 
     <!-- Content Type -->
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
